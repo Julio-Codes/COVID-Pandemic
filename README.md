@@ -81,3 +81,40 @@ For information on CDC viral and antibody testing, see information on [CDC lab t
 
 ## More Information
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
+
+# Test for Current Infection
+
+Viral tests check samples from your respiratory system (such as swabs of the inside of the nose) to tell you if you currently have an infection with SARS-CoV-2, the virus that causes COVID-19. Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory to analyze, a process that takes 1-2 days once received by the lab.
+
+If you test positive or negative for COVID-19, no matter the type of test, you still should take preventive measures to [protect yourself and others.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+
+## How to decide if you should get a viral test
+
+Not everyone needs to be tested for COVID-19. Here is some information that might help you make decisions about getting a viral test.
+
+* Most people have mild illness and can recover at home without medical care. They may not need to be tested.
+* At this time, there is no treatment specifically approved for people who have COVID-19.
+
+CDC has [guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html) for who should be tested, but decisions about testing are made by state and local health departments or healthcare providers.
+
+## How to get a viral test
+
+COVID-19 testing differs by location. If you have symptoms of COVID-19 and want to get tested, call your healthcare provider first. You can also visit your [state](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) or [local](https://www.naccho.org/membership/lhd-directory) health department’s website to look for the latest local information on testing. Although **supplies of tests are increasing, it may still be difficult to find a place to get tested.**
+
+The U.S. Food and Drug Administration (FDA) has authorized two viral tests that let you collect either a [nasal swab](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-test-patient-home-sample-collection) or a [saliva sample](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-diagnostic-test-using-home-collection-saliva) at home. However, you will still need to send your sample to a laboratory for analysis.
+
+## What to do after a viral test
+
+To get your test result, please check with the group that performed your test, such as your healthcare provider or your health department. Check the CDC website to [locate your health department information](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html). How long it will take to get your test results back depends on the test used.
+
+* **If you test positive for COVID-19,** know what protective steps to take [If You Are Sick or Caring for Someone.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html)
+* **If you test negative for COVID-19,** you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very early in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean you won’t get sick later. This means you could still spread the virus.
+
+**For healthcare professionals**
+
+For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
+
+### More Information
+[HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
+[CDC: Frequently Asked Questions on Symptoms & Testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
+[U.S. Food and Drug Administration FAQs on Viral Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2)
