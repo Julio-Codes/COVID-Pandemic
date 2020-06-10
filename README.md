@@ -1,3 +1,49 @@
+# Table of Contents
+- [Symptoms of Coronavirus](#symptoms-of-coronavirus)
+    - [What you need to know](##What-you-need-to-know)
+    - [Watch for symptoms](##Watch-for-symptoms)
+    - [When to Seek Emergency Medical Attention](##When-to-Seek-Emergency-Medical-Attention)
+    - [Caring for yourself or others](##Caring-for-yourself-or-others)
+    - [More Information](##More-Information)
+- [Testing for Covid-19](#Testing-for-Covid-19)
+    - [Who should be tested](#Who-should-be-tested)
+    - [Results](#Results)
+    - [More Information on Test](##More-Information-on-Test)
+- [Test for Current Infection](#-Test-for-Current-Infection)
+    - [How to decide if you should get a viral test](##How-to-decide-if-you-should-get-a-viral-test)
+    - [How to get a viral test](##How-to-get-a-viral-test)
+    - [What to do after a viral test](##What-to-do-after-a-viral-test)
+    - [More Information on Infections](###More-Information)
+- [Test for Past Infection (Antibody Test)](##Test-for-Past-Infection-Antibody-Test)
+    - [How to get an antibody test](###How-to-get-an-antibody-test)
+    - [What do your results mean?](###What-do-your-results-mean?)
+    - [CDC’s work in antibody testing](###CDC’s-work-in-antibody-testing)
+- [How COVID-19 Spreads](###How-COVID-19-Spreads)
+    - [Person-to-person spread](###Person-to-person-spread)
+    - [The virus spreads easily between people](###The-virus-spreads-easily-between-people)
+    - [Spread between animals and people](###Spread-between-animals-and-people)
+    - [Protect yourself and others](###Protect-yourself-and-others)
+    - [More Information on Catching Covid-19](####More-Information-on-Catching-Covid-19)
+- [How to Protect Yourself & Others](###How-to-Protect-Yourself-&-Others)
+    - [Know how it spreads](####Know-how-it-spreads)
+    - [Everyone Should](####Everyone-Should)
+        - [Wash your hands often](####Wash-your-hands-often).
+        - [Avoid close contact](####Avoid-close-contact)
+        - [Cover your mouth and nose with a cloth face cover when around others](####Cover-your-mouth-and-nose-with-a-cloth-face-cover-when-around-others)
+        - [Cover coughs and sneezes](####Cover-coughs-and-sneezes)
+        - [Clean and disinfect](####Clean-and-disinfect)
+        - [Monitor Your Health](####Monitor-Your-Health)
+    - [Handwashing Resources](####Handwashing-Resources)
+    - [More Information on Protecting yourself](####More-Information-on-Protecting-yourself)
+- [Social Distancing](##Social-Distancing)
+    - [What is social distancing?](###What-is-social-distancing?)
+    - [Why practice social distancing?](###Why-practice-social-distancing?)
+    - [Tips for social distancing](###Tips-for-social-distancing)
+    - [More Information on Social Distancing](####More-Information-on-Social-Distancing)
+
+
+
+
 # COVID Pandemic
 
 # Symptoms of Coronavirus
@@ -79,7 +125,7 @@ For information on antibody surveillance, see [objectives and types of surveys.]
 **For laboratorians**
 For information on CDC viral and antibody testing, see information on [CDC lab tests.](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html)
 
-## More Information
+## More Information on Test
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 
 # Test for Current Infection
@@ -218,7 +264,7 @@ It may be possible that a person can get COVID-19 by **touching a surface or obj
 
 Learn more about what you can do to [protect yourself and others.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 
-#### More Information
+#### More Information on Catching Covid-19
 [ASL Video Series: How does COVID-19 Spread?](https://www.youtube.com/watch?v=m4gborCUztk&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=7&t=0s)
 
 ### How to Protect Yourself & Others
@@ -278,7 +324,7 @@ Learn more about what you can do to [protect yourself and others.](https://www.c
 [Handwashing tips](https://www.cdc.gov/handwashing/)
 [Hand Hygiene in HealthCare settings](https://www.cdc.gov/handhygiene/index.html)
 
-#### More Information
+#### More Information on Protecting yourself
 [Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 [If someone in your house gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
@@ -346,7 +392,7 @@ If you, or someone you care about, are feeling overwhelmed with emotions like sa
 * Visit the [Disaster Distress Helpline](https://www.samhsa.gov/disaster-preparedness), call 1-800-985-5990, or text TalkWithUs to 66746
 * Visit the [National Domestic Violence Hotline](https://www.thehotline.org/) or call 1-800-799-7233 and TTY 1-800-787-3224
 
-#### More Information
+#### More Information on Social Distancing
 [How to Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 [Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
 [Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
